@@ -1,0 +1,19 @@
+# Build artifacts
+Debug/
+Release/
+build/
+
+# STM32CubeIDE settings
+.settings/
+.mxproject
+
+# C/C++ Indexer files
+.cproject
+.project
+
+# Other
+*.o
+*.elf
+*.su
+*.bak
+*.map

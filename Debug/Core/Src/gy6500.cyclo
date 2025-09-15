@@ -1,0 +1,15 @@
+../Core/Src/gy6500.c:48:6:Scanning_I2C	3
+../Core/Src/gy6500.c:61:19:Gy6500_init	4
+../Core/Src/gy6500.c:82:19:getAllData	2
+../Core/Src/gy6500.c:103:19:getAccelerometer	2
+../Core/Src/gy6500.c:118:19:getGyroscope	2
+../Core/Src/gy6500.c:133:19:getTemp	2
+../Core/Src/gy6500.c:146:19:setSensorState	2
+../Core/Src/gy6500.c:162:19:setTempState	2
+../Core/Src/gy6500.c:178:19:setGyroRange	2
+../Core/Src/gy6500.c:192:19:setAccelRange	2
+../Core/Src/gy6500.c:206:19:setDLPF	2
+../Core/Src/gy6500.c:220:19:calibrate	1
+../Core/Src/gy6500.c:223:19:setGyroOffsets	1
+../Core/Src/gy6500.c:226:19:setAccelOffsets	1
+../Core/Src/gy6500.c:229:6:updateAngles	1
