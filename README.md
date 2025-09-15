@@ -1,5 +1,5 @@
 # GY-6500 센서 라이브러리 만들기
-## 현재 아래 내용들 구현
+## 초기 아래 내용들 구현    25/09/15
 void **Scanning_I2C()**;    ->    연결된 I2C 주소 찾아서 출력
 
 HAL_StatusTypeDef **Gy6500_init(GyData *dev, I2C_HandleTypeDef *i2c_handle, uint8_t address)**;    ->    GY-6500 센서 연결 후 SLEEP 해제
